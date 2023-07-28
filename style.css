@@ -397,7 +397,7 @@ button:hover{
     font-family: 'Concert One', cursive;
     color: #dda472;
   }
-  .last{
+  .last-4{
     /* border: 2px solid black; */
     z-index: 2;
     position: absolute;
@@ -406,7 +406,7 @@ button:hover{
     height: 450px;
     width: 200px;
   }
-  .last img{
+  .last-4 img{
     width: 450px;
     height: 100%;
     transform: rotate(-20deg);
