@@ -84,7 +84,7 @@ body::-webkit-scrollbar {
     
 }
 .nav li a{
-    color: rgb(193, 7, 7);
+    color: darkgreen;
     font-weight: 600;
 }
 
