@@ -141,7 +141,7 @@ button:hover{
     right: 0;
     height: 700px;
     width: 700px;
-    background: darkgreen;
+    background: brown;
      background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: end;
@@ -229,12 +229,14 @@ button:hover{
     color: chocolate;
 }
 .main-star{
+    /* border: 2px solid black; */
+    width: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
     position: absolute;
     top: 200px;
-    left: 310px;
+    /* left: 310px; */
 }
 .star{
     position: relative;
