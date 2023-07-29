@@ -413,3 +413,33 @@ button:hover{
     height: 100%;
     transform: rotate(-20deg);
   }
+
+
+  .show{
+    transform: translateX(20px);
+    transition: all 2s;
+  }
+  .delivery-content{
+      opacity: .2;
+  }
+  .show-1{
+    opacity: 1;
+    transform: translateX(-20px);
+    transition: all 2s;
+  }
+  .main-3-pickup{
+    opacity: .2;
+  }
+  .show-3{
+    opacity: 1;
+    transform: translateY(-10px);
+    transition: all 2s;
+  }
+  .star{
+    opacity: .1;
+  }
+  .show-4{
+    opacity: 1;
+    transition: all 2s;
+    /* transform: scale(1.1); */
+  }
