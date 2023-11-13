@@ -441,5 +441,4 @@ button:hover{
   .show-4{
     opacity: 1;
     transition: all 2s;
-    /* transform: scale(1.1); */
   }
